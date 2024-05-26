@@ -15,8 +15,8 @@
 4. Test checkCart(List.of(new Item("towel", "0456789", 301, 0)), 100) - неисполнет услов (sum <= payment) и (item.getDiscount() > 0)
 
 5. Test checkCart(List.of(new Item("milk", "01234567", 500, 5)), 500) -Сите услови се исполнети
-<br>
- ### Тест случаи според Multiple Condition <br>
+
+### Тест случаи според Multiple Condition <br>
  
 ![Screenshot 2024-05-25 170641](https://github.com/jna6/SI_2024_lab2_212010/assets/101054744/19a345a2-f04b-407a-b972-eb21d4f1dad2)
 
